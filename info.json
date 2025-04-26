@@ -1,0 +1,10 @@
+{
+  "name": "CharliesSentinelToken",
+  "symbol": "CST",
+  "decimals": 18,
+  "description": "Charlies Sentinel Token (CST) - Dedicated to safeguarding truth, justice, and memory.",
+  "website": "https://charliessentinel.org",
+  "explorer": "https://etherscan.io/token/0xb76a2cf0be7d2caf4592e9d340995d7dbab30bde",
+  "status": "active",
+  "id": "0xb76a2cf0be7d2caf4592e9d340995d7dbab30bde"
+}
